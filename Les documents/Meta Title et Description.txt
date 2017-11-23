@@ -1,0 +1,85 @@
+Page : index
+
+<title>A l'Žquilibre</title>
+<meta name=ÇÊA lÕequilibreÊÈ content="L'alternative au restaurant, A l'Žquilibre est la pour vous !"/>
+<meta charset="utf-8"/>
+
+<----------------------------------------------------------->
+
+Page : actualites
+
+title>Blog et articles | A l'équilibre</title>
+<meta name="Nos actualitŽs et nos blogueurs/blogueuses favoris " content="Blog A l'équilibre : actualité, guides pratiques et conseils. La nouvelle alternative qui remplace le restaurant."/>
+<meta charset="utf-8"/>
+
+<----------------------------------------------------------->
+
+Page : contact
+
+<title>Contactez-nous | A l'Žquilibre</title>
+<meta name="Contacter notre equipe au petit oignons ÊÈ content="Vous souhaitez privatiser un foodtruck, un foodbike ou un stand mobile ? Contactez-nous et faites-nous part de nos envies, mme les plus folles !"/>
+<meta charset="utf-8"/>
+
+<----------------------------------------------------------->
+
+Page : evenements
+
+ <title>ƒvŽnements | A l'ƒquilibre</title>
+ <meta name="Organisation d ŽvŽnement ÊÈ content="Foodtruck, rejoignez notre rŽseau et bŽnŽficiez de nos services ŽvŽnementiels. Avec nous, boostez votre chiffre dÕamitiŽ."/>
+<meta charset="utf-8"/>
+  
+
+<----------------------------------------------------------->
+ex d'une des pages evenements
+
+Page : mariages
+
+<title>Emplacements fixes et événements pour foodtruck | A l'équilibre</title>
+<meta name="description" content="Foodtrucks, rejoignez notre réseau et bénéficiez de nos services d’emplacements fixes et événementiels. Avec nous, boostez votre chiffre d’amitié."/>
+<meta charset="utf-8"/>
+
+<----------------------------------------------------------->
+
+Page : styles culinaires
+
+<title>Styles culinaires | A l'équilibre</title>
+<meta name=ÇÊnos specialitŽs ÇÊ content="Plus de 10 styles culinaires disponibles à la privatisation parmi notre réseau de traiteurs Nantais."/>
+
+<----------------------------------------------------------->
+
+Page : equipe
+
+<title>ƒquipe | A l'ƒquilibre</title>
+<meta name=" notre equipeÊÈ content="Vous tes curieux de conna”tre les personnes avec qui vous tes possiblement amenŽs ˆ Žchanger ? Voici notre Žquipe."/>
+        
+<----------------------------------------------------------->
+
+Page : cullinaire_details.php
+
+<title>Argentin | A l'équilibre</title>
+<meta name="que souhaitez vous commender" content="Traiteur Argentin pour vos événements d'entreprise et événements privés partout en région Nantaise. De nombreux plats et formules sur-mesure disponibles à la réservation."/>    
+<meta charset="utf-8"/>
+
+<----------------------------------------------------------->
+
+Page : lieux.php
+
+<title> Nos localisations | A l'équilibre</title>
+<meta name=ÇÊOu ÇÊnous trouver content="Un problme pour nous localiser ? vous pourrez trouver toutes les informations qui vous intŽresse ici."/>    <meta charset="utf-8"/>
+    
+
+<----------------------------------------------------------->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
